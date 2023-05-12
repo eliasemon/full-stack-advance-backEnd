@@ -1,0 +1,7 @@
+GET http://localhost:4000/char-counter/hello%4
+
+###
+GET http://localhost:4000/person-maker?properties=firstName,email
+
+###
+GET http://localhost:4000/random?start=60&end=70
